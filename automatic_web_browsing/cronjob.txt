@@ -1,0 +1,2 @@
+# run the regitration code when the laboratory starts
+31 9 * * 5 cd ~/PycharmProjects/automatic_web_browsing && python upel.py
